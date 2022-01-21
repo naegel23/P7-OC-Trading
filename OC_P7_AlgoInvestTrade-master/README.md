@@ -1,4 +1,4 @@
-# Projet P7
+# Projet P7 : Résolvez des problèmes en utilisant des algorithmes en Python
 
 Le but de ce projet est de créer un algorithme rapide en python pour trouver la meilleure combinaison d'actions sur lesquelles investir pour avoir le meilleur bénéfice au bout de 2 ans en prenant en compte les contraintes telles que le montant maximum d'investissement, le prix à virgule des actions et des erreurs de saisie dans les fichiers.
 
