@@ -4,7 +4,7 @@ Le but de ce projet est de créer un algorithme rapide en python pour trouver la
 
 Prérequis : 
 - installer Python3
--
+
 Ligne de commande pour lancer le programme : 
 - python bruteforce.py fichier_csv.csv
 - python optimized.py fichier_csv.csv
